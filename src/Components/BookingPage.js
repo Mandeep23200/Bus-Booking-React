@@ -62,7 +62,7 @@ const BookingPage = () => {
           />
         </label>
         <div className="flex justify-between">
-          <Link to='/buses'>
+          <Link to='/buslist'>
             <button className="px-4 py-2 mt-3 bg-gray-300 text-black rounded">Go Back</button>
           </Link>
           <button type="submit" className="px-4 ml-5 py-2 mt-3 bg-blue-600 text-white rounded">Confirm Booking</button>
